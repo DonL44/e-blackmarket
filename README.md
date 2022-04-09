@@ -22,17 +22,17 @@
   
 💻 Below are two gif showings the functionality of the application:
   
-![The NPM Test, Seed, and Start](images\NPM_test-seed-start.gif)
+![The NPM Test, Seed, and Start](https://github.com/DonL44/e-blackmarket/blob/43cf3b3775e265249a80be868c2dd06c7619cced/images/NPM_test-seed-start.gif)
 
-![Insomnia Database](images\node-server_demo.gif)
+![Insomnia Database](https://github.com/DonL44/e-blackmarket/blob/43cf3b3775e265249a80be868c2dd06c7619cced/images/node-server_demo.gif)
 
 ## Screenshots
 
-![GET_POST_PUT_DELETE-Tags](images\tag-screenshot.png)
+![GET_POST_PUT_DELETE-Tags](https://github.com/DonL44/e-blackmarket/blob/43cf3b3775e265249a80be868c2dd06c7619cced/images/tag-screenshot.png)
 
-![GET_POST_PUT_DELETE-Categories](images\category-screenshot.png)
+![GET_POST_PUT_DELETE-Categories](https://github.com/DonL44/e-blackmarket/blob/43cf3b3775e265249a80be868c2dd06c7619cced/images/category-screenshot.png)
 
-![GET_POST_PUT_DELETE-Products](images\product-screenshot.png)
+![GET_POST_PUT_DELETE-Products](https://github.com/DonL44/e-blackmarket/blob/43cf3b3775e265249a80be868c2dd06c7619cced/images/product-screenshot.png)
   
 🎥 The link to the full movie file showing functionality of the application can be found below: 
 <br>
